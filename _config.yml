@@ -1,6 +1,6 @@
-highlighter: rogue
+description: This is a sample Jekyll Blog.
 name: Jesse's page
-url: "http://jesse-kerr.github.io/"
+url: http://jesse-kerr.github.io/
 lsi: false
 
 permalink: pretty
