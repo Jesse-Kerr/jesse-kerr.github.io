@@ -1,5 +1,9 @@
-url: "https://jesse-kerr.github.io/"
-exclude: [README.md]
+highlighter: rogue
+name: Jesse's page
+url: "http://jesse-kerr.github.io/"
+lsi: false
+
+permalink: pretty
 
 markdown: kramdown
 theme: minima
