@@ -1,0 +1,5 @@
+url: "https://jesse-kerr.github.io/"
+exclude: [README.md]
+
+markdown: kramdown
+theme: minima
